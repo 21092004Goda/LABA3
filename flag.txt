@@ -1,4 +1,1 @@
-white
-blue
-red
-tree
+print('white blue red tree')
